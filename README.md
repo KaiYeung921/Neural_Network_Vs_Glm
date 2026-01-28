@@ -3,8 +3,8 @@
 A computational neuroscience project comparing the predictive performance of Neural Networks and Generalized Linear Models (GLMs) for predicting neuronal spike counts from local field potential (LFP) recordings in the rat hippocampus.
 
 ## Authors
-- Eitan Goldfein
-- Malakai
+- Eitan 
+- Kai
 - Winnie
 
 ## Project Overview
