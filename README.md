@@ -1,6 +1,6 @@
 # Neural Network vs GLM: Predicting Hippocampal Neuronal Spiking from LFP Data
 
-A computational neuroscience project comparing the predictive performance of Neural Networks and Generalized Linear Models (GLMs) for predicting neuronal spike counts from local field potential (LFP) recordings in the rat hippocampus.
+A computational neuroscience project done in class comparing the predictive performance of Neural Networks and Generalized Linear Models (GLMs) for predicting neuronal spike counts from local field potential (LFP) recordings in the rat hippocampus.
 
 ## Authors
 - Eitan 
